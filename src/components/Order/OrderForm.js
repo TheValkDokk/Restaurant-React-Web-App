@@ -9,7 +9,7 @@ const pMethods = [
   { id: 'Card', title: 'Card' }
 ]
 
-export default function OrderForm (props) {
+export default function OrderForm(props) {
   const { values, errors, handleInputChange } = props
 
   return (

@@ -15,7 +15,7 @@ const getFreshModelObject = () => ({
   orderDetails: []
 })
 
-export default function Order () {
+export default function Order() {
   const {
     values,
     setValues,
